@@ -17,7 +17,7 @@ const HomePages = () => {
             WELCOME TO
           </h1>
           <h1 className="text-6xl sm:text-7xl md:text-8xl font-extrabold tracking-tight text-transparent bg-clip-text bg-gradient-to-br from-black to-gray-700">
-            MY PROFILE
+            
           </h1>
           <p className="text-lg font-serif">Where Kalcer Is No. 1.</p>
 
